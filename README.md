@@ -5,6 +5,8 @@
 
 Insurance companies are constantly looking for ways to accurately assess the risk of insuring different vehicles. This is important, as it allows them to set appropriate premiums and ensure that they can cover potential losses. This project presents a statistical analysis that uses machine learning to predict the risk rating of automobiles based on their characteristics. More specifically, it will investigate the affect of a car’s specifications on the assigned insurance risk rating (symbol) of a vehicle which is a significant factor when calculating insurance premiums. This analysis will not only assist insurance companies but also help consumers become more aware about the key drivers of their insurance rates.
 
+![](https://github.com/teghwin404/portfolio/blob/main/images/vip_cars.jpg)
+
 ## [2. Linear Optimization to solve Supply-Demand Mismatch for Bike Sharing Service](https://github.com/teghwin404/bike-relocation-optimization.git)
 #### Tools Used: Python (Jupyter Notebook), Gurobi for Programming, Numpy, MatplotLib
 
