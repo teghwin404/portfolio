@@ -25,3 +25,5 @@ Using Tableau, this project utilizes a 7000+ hockey players dataset to find insi
 #### Tools Used: Python, Text Scraping, Find and Replace, Sentiment Analysis, Word Frequency, Excel 
 
 Using company and user tweets, running a sentiment analysis about fast fashion brands' sustainability practices. The project aims to understand the consumer sentiment about a brand's sustainability practices and if a brand can use social media as a tool to gauge user sentiment in the context of environmental practices. For this analysis we chose to analyze the top fast fashion brands in Canada; H&M, Zara, Uniqlo, and SHEIN. To act as a comparative metric, we included Patagonia to the list, a brand built on sustainable values.
+
+![](/images/sustainability.png)
