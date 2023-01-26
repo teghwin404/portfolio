@@ -19,7 +19,7 @@ Public bike sharing services often face an unbalanced distribution of bikes amon
 
 Using Tableau, this project utilizes a 7000+ hockey players dataset to find insights for CKM; a sports management company. The dashboard assisted the company in identifying high-performing players across 34 hockey teams. Boxplots, treemaps, bar charts, graphs were used to identify players based on their performance. Interactive filters were developed for the company so they can set cutoffs when signing up new players. The dashboard also facilated easy retreival of individual players while also providing an overview of averages. Custom KPIs like scoring accuracy and consistency were added to improve the richness of the analysis.
 
-![](/images/bixi.png)
+![](/images/ckm.png)
 
 ## [4. Sentiment Analysis of Fast Fashion Brands using Twitter Data](https://github.com/teghwin404/sentiment-analysis-using-tweets.git)
 #### Tools Used: Python, Text Scraping, Find and Replace, Sentiment Analysis, Word Frequency, Excel 
