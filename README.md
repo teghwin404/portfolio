@@ -1,4 +1,4 @@
-# Portfolio
+# Data Analytics Portfolio
 
 ## [1. Understanding Risk Factor in Automobile Insurance using Random Forests](https://github.com/teghwin404/predicting-insurance-risk.git)
 #### Tools used: R Studio, Random Forests, Boosted Forests, PCA, Clustering, GG Plot
