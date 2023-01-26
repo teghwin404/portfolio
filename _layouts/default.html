@@ -21,7 +21,8 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         
-        <h3>McGill University - Business Analytics and Marketing</h3>
+        <h3>McGill University</h3>
+        <h4>Business Analytics and Marketing</h4>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -47,9 +48,8 @@
 
       </section>
       <footer>
-        <p><a href="https://www.linkedin.com/in/teghwinsingh/">LinkedIn</a></p>
+        <p><a href="https://www.linkedin.com/in/teghwinsingh/">LinkedIn</a> | <a href="{{ site.github.owner_url }}">GitHub</a> | <a href = "mailto: teghwin.kohli@mail.mcgill.ca">Email</a></p>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages | 2023</small></p>
       </footer>
