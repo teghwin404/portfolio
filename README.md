@@ -17,7 +17,7 @@ Public bike sharing services often face an unbalanced distribution of bikes amon
 ## [3. Social Media Analysis using Image Analytics and Topic Modeling](https://github.com/teghwin404/twitter-image-analytics)
 #### Tools Used: Python, Google Cloud Vision API, Topic Modeling, Word Frequency, Scraping
 
-![](/images/k.png)
+![](/images/gopro.png)
 
 Go Pro is a leading action camera manufacturer which also develops its own mobile apps and video-editing software. This project aims to analyze the GoPro's Twitter image uploads using Google's Cloud Vision API. The tweets were scraped from Twitter and passed through the API using a simple python script. Using topic modeling, each image was classfied in a theme and sorted by engagement metrics. Each theme's performance was analyzed and it was found that on an average landscape photos draw higher engagment whereas photos related to winter or aqua sports had lower engagement rates.
 
